@@ -56,6 +56,13 @@ cd Your/Path/To/this/Project
 pip install -r requirements.txt
 ```
 
+or
+
+```bash
+pip install -i https://pypi.douban.com/simple selenium
+```
+
+
 ## 使用说明
 
 （1）打开”武汉大学信息门户“--”MOOC“--”我学的课“--具体课程（如马克思主义基本原理），复制该网站url:
