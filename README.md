@@ -25,13 +25,20 @@
 - Chrome，下载网址：https://www.google.com/intl/zh-CN/chrome/ 版本要求：最新版
 - ChromeDriver，https://chromedriver.storage.googleapis.com/index.html 版本要求：与Chrome相同
 - 根据文件"chromedriver.exe"的解压缩路径更改环境变量
+- 
 	（1）打开“设置“搜索“环境变量”
+
 	（2）选择”编辑账户的环境变量“
+
 	（3）双击Path
+
 	（4）新建环境变量
+
 	（5）将"chromedriver.exe"的解压缩路径填入
+
 	（6）确定
-	## 环境变量设置完成后请不要更改"chromedriver.exe"的路径
+
+	# 环境变量设置完成后请不要更改"chromedriver.exe"的路径
 - 
 
 ### 安装
@@ -52,8 +59,13 @@ pip install -r requirements.txt
 ## 使用说明
 
 （1）打开”武汉大学信息门户“--”MOOC“--”我学的课“--具体课程（如马克思主义基本原理），复制该网站url:
-*注意：所复制的网址应为http://mooc1.mooc.whu.edu.cn/mycourse/studentcourse.... 而不应为http://mooc1.mooc.whu.edu.cn/mycourse/studentstudy....
+
+*注意：所复制的网址应为http://mooc1.mooc.whu.edu.cn/mycourse/studentcourse.... 
+
+而不应为http://mooc1.mooc.whu.edu.cn/mycourse/studentstudy....
+
 （2）按照需求指示进行操作，输入学习通账号密码
+
 *注意：如果你选择保存账号密码，则会在你的工作目录下生成一个txt文件以记录你的账号密码，如果你选择删除则记录功能将失效，我们不会窃取或保存您的账号密码。
 
 ## 贡献
