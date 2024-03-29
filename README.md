@@ -56,7 +56,7 @@ cd Your/Path/To/this/Project
 pip install -r requirements.txt
 ```
 
-or
+如果下载速度过慢，可以使用镜像源进行下载
 
 ```bash
 pip install -i https://pypi.douban.com/simple selenium
