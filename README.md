@@ -22,7 +22,7 @@
 
 - Python 3.6 或更高版本
 - pip (Python 包管理器)
-- Chrome，下载网址：https://www.google.com/intl/zh-CN/chrome/ 版本要求：最新版
+- Chrome，https://www.google.com/intl/zh-CN/chrome/ 版本要求：最新版
 - ChromeDriver，https://chromedriver.storage.googleapis.com/index.html 版本要求：与Chrome相同
 - 根据文件"chromedriver.exe"的解压缩路径更改环境变量
 
