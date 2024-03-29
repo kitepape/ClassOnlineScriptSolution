@@ -18,14 +18,14 @@
 - 就读于WHU
 - 了解过python这一编程语言
 
-### 先决条件
+## 先决条件
 
 - Python 3.6 或更高版本
 - pip (Python 包管理器)
 - Chrome，下载网址：https://www.google.com/intl/zh-CN/chrome/ 版本要求：最新版
 - ChromeDriver，https://chromedriver.storage.googleapis.com/index.html 版本要求：与Chrome相同
 - 根据文件"chromedriver.exe"的解压缩路径更改环境变量
-- 
+
 	（1）打开“设置“搜索“环境变量”
 
 	（2）选择”编辑账户的环境变量“
@@ -38,10 +38,10 @@
 
 	（6）确定
 
-	# 环境变量设置完成后请不要更改"chromedriver.exe"的路径
+	### 环境变量设置完成后请不要更改"chromedriver.exe"的路径
 - 
 
-### 安装
+## 安装
 
 首先，克隆仓库到本地机器：
 
