@@ -60,13 +60,15 @@ pip install -r requirements.txt
 
 （1）打开”武汉大学信息门户“--”MOOC“--”我学的课“--具体课程（如马克思主义基本原理），复制该网站url:
 
-*注意：所复制的网址应为http://mooc1.mooc.whu.edu.cn/mycourse/studentcourse.... 
+#### 注意：所复制的网址应为http://mooc1.mooc.whu.edu.cn/mycourse/studentcourse.... 
 
 而不应为http://mooc1.mooc.whu.edu.cn/mycourse/studentstudy....
 
 （2）按照需求指示进行操作，输入学习通账号密码
 
-*注意：如果你选择保存账号密码，则会在你的工作目录下生成一个txt文件以记录你的账号密码，如果你选择删除则记录功能将失效，我们不会窃取或保存您的账号密码。
+#### 注意：如果你选择保存账号密码，则会在你的工作目录下生成一个txt文件以记录你的账号密码，如果你选择删除则记录功能将失效。
+
+#### 我们不会窃取或保存您的账号密码。
 
 ## 贡献
 
