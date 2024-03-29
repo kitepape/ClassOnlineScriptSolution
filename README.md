@@ -1,1 +1,1 @@
-# ClassOnlineScriptSolution
+# auto WHU online course
